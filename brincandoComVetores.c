@@ -14,7 +14,7 @@ Você deve fazer um programa que leia do(a) usuário(a) uma sequência de 10 nú
 11. Exibir a sequência rotacionada M vezes (quantidade fornecida pelo(a) usuário(a)) para a direita
 
 RESTRIÇÕES: Não se pode utilizar nenhum conceito não visto em sala de aula (por ex., cadeias de caracteres)
-*/
+ */
 
 #include <stdio.h>
 
